@@ -1,0 +1,2 @@
+# humble-miner
+Mining
